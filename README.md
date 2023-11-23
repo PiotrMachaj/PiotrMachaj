@@ -3,7 +3,8 @@
 
 
 - 🔭 I’m currently working as Data Analyst
-- 🌱 I’m currently learning Data Science & ML and finishing post-graduate studies on Data Science
+- 🎓 Finished post-graduate studies on Data Science some time ago
+- 🌱 I keep learning and exploring Data Science & ML 
 - 👯 I’m looking to collaborate on Data Science / Machine Learning projects
 - 📫 How to reach me: Linkedin!
 - ⚡ Fun fact: Star Wars fan!
